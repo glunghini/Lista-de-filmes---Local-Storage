@@ -29,9 +29,9 @@ const filmes = [
     },
     {
      id:4,
-     nome: 'A Lagoa Azul',
-     genero: 'romance',
-     lancamento: 1983
+     nome: 'Carros',
+     genero: 'animação',
+     lancamento: 2006
 }]
 
 /*
